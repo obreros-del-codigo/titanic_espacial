@@ -15,3 +15,5 @@ Esta simulación la vamos a elaborar en python con las siguientes librerías:
 
 ### Math
 Este módulo proporciona acceso a las funciones matemáticas definidas por el estándar C.
+### Matplotlib
+Este módulo nos va proporcionar herramientas para la visualización de datos y poder ver la simulación.
