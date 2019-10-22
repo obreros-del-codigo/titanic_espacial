@@ -6,4 +6,12 @@ Integrantes del equipo:
 - Samuel Salas Mesa
 - Tomas Tavera Mejia
 ## Introducción
-Esta práctica consiste en simular el trayecto de un cohete hacia el espacio y orbitar la tierra.
+Esta práctica consiste en simular el trayecto de un cohete hacia el espacio y orbitar la tierra. <br>
+Esta simulación la vamos a elaborar en python con las siguientes librerías:
+- Math
+- Matplotlib
+- Matplotlib.pyplot
+- Axes3D
+
+### Math
+Este módulo proporciona acceso a las funciones matemáticas definidas por el estándar C.
